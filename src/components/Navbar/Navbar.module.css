@@ -58,6 +58,8 @@
 
     .menuBtn {
         display:block;
+        background:none;
+        border:none;
         cursor:pointer;
     }
 
