@@ -3,7 +3,7 @@
         "title":"Project 1",
         "imageSrc":"projects/project.png",
         "description":"",
-        "skills":["html","css","react","node","git"],
+        "skills":["css","react","node"],
         "demo":"",
         "source":""
     },

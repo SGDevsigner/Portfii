@@ -1,10 +1,10 @@
 [
     {
     "role":"Pasante",
-    "organisation":"Upway Digital Solutions",
+    "organisation":"Loloo Solutions",
     "StartDate":"2023",
     "endDate":"2024",
-    "experiences":["Diseño y ayuda en paginas web"],
-    "imageSrc":"history/image.png"
+    "experiences":["Diseño y desarrollo en paginas web"],
+    "imageSrc":"history/freeIcon.png"
     }
 ]
